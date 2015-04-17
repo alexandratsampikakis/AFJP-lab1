@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- MainActivity -->
+    <string name="app_name">AFJP - Lab1</string>
+    <string name="action_settings">Settings</string>
+    <string name="textViewHeaderMain">All activities</string>
+
+    <!-- Random -->
+    <string name="title_activity_random">Random Number Generator</string>
+    <string name="buttonText">New Random</string>
+
+    <!-- BMI -->
+    <string name="title_activity_bmi">BMI Calculator</string>
+    <string name="buttonTextCompute">Compute</string>
+    <string name="buttonTextReset">Reset</string>
+    <string name="textViewLength">Length (m):</string>
+    <string name="textViewWeigth">Weigth (kg):</string>
+
+    <!-- ColorDisplay -->
+    <string name="title_activity_color_display">ColorDisplay</string>
+    <string name="buttonDisplayColor">Display color</string>
+    <string name="TextViewRed">Red:</string>
+    <string name="TextViewGreen">Green:</string>
+    <string name="TextViewBlue">Blue:</string>
+
+    <!-- MyCountries -->
+    <string name="title_activity_my_countries">My Countries</string>
+    <string name="buttonAddCountry">Add Country</string>
+    <string name="textViewHeader">My Countries</string>
+    <string name="title_activity_add_country">Add Country</string>
+    <string name="textViewCountry">Name of country:</string>
+    <string name="textViewYear">Year:</string>
+    <string name="buttonCountryFinish">Finish</string>
+    <string name="buttonCountryCancel">Cancel</string>
+    
+    <!-- VaxjoWeather -->
+    <string name="title_activity_vaxjoweather">Växjö Weather</string>
+    
+    <!-- Colors -->
+    <color name="myColor">#ffffffff</color>
+    <color name="myColorYellow">#ffeeed83</color>
+    <color name="myColorPink">#ffeeaee1</color>
+    <color name="myColorBlue">#ff73c9ee</color>
+    <color name="myColorGreen">#ff99ee87</color>
+    <color name="myColorBlack">#ff000000</color>
+    <color name="myTextColorWhite">#ffffffff</color>
+
+</resources>
